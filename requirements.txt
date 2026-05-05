@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+onnxruntime
+pandas
+Pillow
+torchvision
+torch
